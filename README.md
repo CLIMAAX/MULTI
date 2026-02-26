@@ -1,10 +1,15 @@
-# HAZARD
+# Multi-Hazard
 
-Repository for collaboration on workflows for HAZARD hazard.
+Repository for collaboration on workflows that combine multiple hazards.
 
 [<img src="https://raw.githubusercontent.com/CLIMAAX/crabook/main/crabook/logo.png" height="100" />](https://climaax.eu)
 
 Part of the [Climate Risk Assessment handbook](https://handbook.climaax.eu/).
+
+
+## Workflows
+
+- [Infrastructure risk assessment](./01_Infrastructure_heat_precipitation/) (heatwaves and precipitation; airports)
 
 
 ## How to run
