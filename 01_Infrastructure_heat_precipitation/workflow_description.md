@@ -38,8 +38,8 @@ Outputs: TODO
 
 ### Part 3: visualisation of hazard
 
-- [Visualise climate indicators](./Hazard_plot.ipynb)
-- [Visualise climate indicators (change in projection)](./Hazard_plot_change.ipynb)
+- [Visualise climate indicators](./Hazard_indicators_plot.ipynb)
+- [Visualise climate indicators (change in projection)](./Hazard_indicators_plot_change.ipynb)
 
 Outputs: TODO
 
