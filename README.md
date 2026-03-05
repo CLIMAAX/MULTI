@@ -26,15 +26,30 @@ Binder sessions are not persistent and may not provide the necessary computing r
 
 ### Local setup with conda
 
-Clone the repository, create a new environment from the `environment.yml` file and launch the jupyter lab interface from the activated environment:
+```bash
+# Clone the workflow repository
+git clone git@github.com:CLIMAAX/MULTI.git
+cd MULTI
 
-    git clone git@github.com:CLIMAAX/MULTI.git
-    cd MULTI
-    conda env create -f environment.yml
-    conda activate climaax_multi
-    jupyter lab
+# Create a new environment and activate it
+conda env create -f environment.yml
+
+# Start the JupyterLab from within the created environment
+conda activate climaax_multi
+jupyter lab
+```
 
 
 ## How to contribute
 
 See our [contributions](https://handbook.climaax.eu/community/contribute.html) page in the Handbook.
+
+
+## License
+
+`Apache-2.0 OR CC-BY-4.0` ([SPDX license identifier](https://spdx.dev/learn/handling-license-info/)).
+
+
+## Acknowledgements
+
+CLIMAAX has received funding from the European Union’s Horizon Europe – the Framework Programme for Research and Innovation (2021-2027) under grant agreement No. 101093864.
