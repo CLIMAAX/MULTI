@@ -1,4 +1,4 @@
-name: climaax_multi_infrastructure
+name: climaax_multi
 
 channels:
     - conda-forge
