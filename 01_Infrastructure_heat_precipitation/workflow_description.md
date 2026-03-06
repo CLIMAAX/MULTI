@@ -61,7 +61,12 @@ Extract hazard data for airport locations, define exposure and vulnerability ind
 
 - [Risk assessment for airport infrastructure](./Risk_assessment_airports.ipynb)
 
-**Output:** integrated risk scores combining hazard, exposure and vulnerability at specific point locations.
+**Output:** risk scores combining hazard, exposure and vulnerability at specific point locations.
+
+:::{figure} ../images/infrastructure_workflow_risk_table_example.png
+
+Example of a risk table indicating categories of risk for individual locations produced by the risk assesment workflow.
+:::
 
 
 ## Contributors
