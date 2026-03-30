@@ -28,7 +28,7 @@ Binder sessions are not persistent and may not provide the necessary computing r
 
 ```bash
 # Clone the workflow repository
-git clone git@github.com:CLIMAAX/MULTI.git
+git clone https://github.com/CLIMAAX/MULTI.git
 cd MULTI
 
 # Create a new environment and activate it
