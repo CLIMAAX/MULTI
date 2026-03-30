@@ -4,7 +4,7 @@ Repository for collaboration on workflows that combine multiple hazards.
 
 [<img src="https://raw.githubusercontent.com/CLIMAAX/crabook/main/crabook/logo.png" height="100" />](https://climaax.eu)
 
-Part of the [Climate Risk Assessment handbook](https://handbook.climaax.eu/).
+Part of the [Climate Risk Assessment Handbook](https://handbook.climaax.eu/).
 
 
 ## Workflows
@@ -28,7 +28,7 @@ Binder sessions are not persistent and may not provide the necessary computing r
 
 ```bash
 # Clone the workflow repository
-git clone git@github.com:CLIMAAX/MULTI.git
+git clone https://github.com/CLIMAAX/MULTI.git
 cd MULTI
 
 # Create a new environment and activate it
